@@ -32,3 +32,13 @@ p {
 a {
   text-align: center;
 }
+
+.dmdiv1 {
+  text-align: center;
+  background-color: #9bd692;
+  }
+
+.dmdiv2 {
+  text-align: center;
+  border: 1cap;
+}
