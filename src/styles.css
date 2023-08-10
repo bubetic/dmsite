@@ -6,13 +6,17 @@ html, body {
   margin: 0;
   border: 0;
   padding: 0;
-  background-color: #fff;
+  background-color: #9bd692;
 }
 
 main {
   margin: auto;
   width: 50%;
   padding: 20px;
+}
+
+h1 {
+  color: black;
 }
 
 main > h1 {
