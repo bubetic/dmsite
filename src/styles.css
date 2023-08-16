@@ -68,8 +68,8 @@ footer {
 
 button {   
   background-color: #4CAF50;   
-  width: 100%;  
-   color: orange;   
+  width: 25%;  
+   color: rgb(0, 0, 0);   
    padding: 15px;   
    margin: 10px 0px;   
    border: none;   
@@ -79,7 +79,7 @@ form {
    border: 3px solid #f1f1f1;   
 }   
 input[type=text], input[type=password] {   
-   width: 100%;   
+   width: 25%;   
    margin: 8px 0;  
    padding: 12px 20px;   
    display: inline-block;   
@@ -98,5 +98,5 @@ button:hover {
 
 .container {   
    padding: 25px;   
-   background-color: lightblue;  
+   background-color: #9bd692;  
 }   
