@@ -3,9 +3,9 @@
 }
 
 @font-face {
-  font-family: 'MyFont';
+  font-family: 'IntroBlackRegular';
   src:
-      url('path/to/CarandaPersonalUse-qLOq.ttf') 
+      url('src/fonts/Intro Black Regular.otf') 
       format('opentype');
   font-weight: normal;
   font-style: normal;
