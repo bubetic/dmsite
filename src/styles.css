@@ -16,7 +16,7 @@ html, body {
   margin: 0;
   border: 0;
   padding: 0;
-  background-color: #9bd692;
+  background-color: #cee9c9;
 }
 
 main {
@@ -26,7 +26,7 @@ main {
 }
 
 h1 {
-  color: #130f0f;
+  color: #272727;
 }
 
 main > h1 {
@@ -41,12 +41,12 @@ p {
 
 a {
   text-align: center;
-  color: #130f0f;
+  color: #272727;
 }
 
 .paragraf {
   text-align: center;
-  background-color: #9bd692;
+  background-color: #cee9c9;
   }
 
 .login {
