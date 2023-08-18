@@ -26,7 +26,7 @@ main {
 }
 
 h1 {
-  color: black;
+  color: #130f0f;
 }
 
 main > h1 {
@@ -41,6 +41,7 @@ p {
 
 a {
   text-align: center;
+  color: #130f0f;
 }
 
 .paragraf {
