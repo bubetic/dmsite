@@ -5,7 +5,7 @@
 @font-face {
   font-family: "IntroBlackRegular";
   src:
-      url('/src/IntroBlackRegular.otf');
+      url('IntroBlackRegular.otf');
    /*   format('opentype');*/
   /* font-weight: normal; */
   /* font-style: normal; */
