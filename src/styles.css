@@ -52,6 +52,7 @@ a {
 .login {
   text-align: center;
   border: 1cap;
+  position: absolute;
 }
 
 img {
