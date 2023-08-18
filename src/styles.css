@@ -105,5 +105,6 @@ button:hover {
 
 .container {   
    padding: 50px;   
-   background-color: #cee9c9;  
+   background-color: #cee9c9;
+   width: 80%;  
 }   
