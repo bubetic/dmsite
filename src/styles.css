@@ -6,7 +6,7 @@
   font-family: 'IntroBlackRegular';
   src:
       url('/src/fonts/Intro Black Regular.otf') 
-      format('opentype');
+   /*   format('opentype');*/
   /* font-weight: normal; */
   /* font-style: normal; */
 }
