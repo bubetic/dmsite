@@ -72,7 +72,7 @@ footer {
 }
 
 button {   
-  background-color: #4CAF50;   
+  background-color: #cee9c9;   
   width: 20%;  
    color: rgb(0, 0, 0);   
    padding: 15px;   
@@ -88,7 +88,7 @@ input[type=text], input[type=password] {
    margin: 8px 0;  
    padding: 12px 20px;   
    display: inline-block;   
-   border: 2px solid green;   
+   border: 2px solid whitesmoke;   
    box-sizing: border-box;   
 }  
 button:hover {   
@@ -103,5 +103,5 @@ button:hover {
 
 .container {   
    padding: 25px;   
-   background-color: #9bd692;  
+   background-color: #cee9c9;  
 }   
