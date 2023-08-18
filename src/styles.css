@@ -28,6 +28,7 @@ main {
 
 h1 {
   color: #272727;
+  text-align: center;
 }
 
 main > h1 {
