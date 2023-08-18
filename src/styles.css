@@ -17,6 +17,7 @@ html, body {
   border: 0;
   padding: 0;
   background-color: #cee9c9;
+  width: 100%;
 }
 
 main {
@@ -102,6 +103,6 @@ button:hover {
    
 
 .container {   
-   padding: 25px;   
+   padding: 50px;   
    background-color: #cee9c9;  
 }   
