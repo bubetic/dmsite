@@ -43,21 +43,14 @@ a {
   text-align: center;
 }
 
-.dmdiv1 {
+.paragraf {
   text-align: center;
   background-color: #9bd692;
   }
 
-.dmdiv2 {
+.login {
   text-align: center;
   border: 1cap;
-}
-
-.dmdiv3 {
-  /* width: 20%;
-  height: 20%; */
-  margin-left: auto;
-  margin-right: auto;
 }
 
 img {
