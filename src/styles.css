@@ -52,11 +52,11 @@ a {
 .login {
   text-align: center;
   border: 1cap;
-  position: absolute;
+  position: center;
 }
 
 img {
-  position: absolute;
+  position: center;
   width: 10px;
   height: 10px;
 }
