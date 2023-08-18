@@ -77,7 +77,7 @@ button {
    color: rgb(0, 0, 0);   
    padding: 15px;   
    margin: 10px 0px;   
-   border: none;   
+   border: whitesmoke solid;   
    cursor: pointer;   
     }   
 form {   
