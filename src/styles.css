@@ -78,17 +78,16 @@ button {
   width: 20%;  
    color: rgb(0, 0, 0);   
    padding: 15px;   
-   margin: 10px 5px;   
+   margin: 10px 0px;   
    border: whitesmoke solid;   
    cursor: pointer;   
     }   
 
 form {   
    border: 3px solid #f1f1f1;
+   width: 80%;
    display: block;
    position: relative;
-   width: : 50%;
-   height: 10em;
 }   
 
 input[type=text], input[type=password] {   
