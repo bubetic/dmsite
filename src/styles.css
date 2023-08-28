@@ -87,6 +87,7 @@ form {
    border: 3px solid #f1f1f1;
    width: 80%;
    display: block;
+   position: relative;
 }   
 
 input[type=text], input[type=password] {   
