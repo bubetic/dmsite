@@ -39,6 +39,11 @@ main > h1 {
 p {
   text-align: center;
   text-decoration: dashed;
+  }
+
+.p1 {
+  text-align: center;
+  text-decoration: dashed;
   color: whitesmoke;
 }
 
