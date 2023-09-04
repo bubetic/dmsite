@@ -16,7 +16,7 @@ html, body {
   margin: 0;
   border: 0;
   padding: 0;
-  background-color: #cee9c9;
+  background-color: rgb(206, 233, 201);
   width: 100%;
 }
 
@@ -76,7 +76,7 @@ footer {
   width: 100%;
   /* Height of the footer*/
   /*height: 1em;*/
-  background: rgb(15, 127, 91);
+  background: rgb(87, 99, 85);
 }
 
 button {   
