@@ -54,13 +54,14 @@ a {
 
 .paragraf {
   text-align: center;
-  background-color: #cee9c9;
+  background-color: rgb(206, 233, 201);
   }
 
 .login {
   text-align: center;
   border: 1cap;
   position: center;
+  color: rgb(206, 233, 201);
 }
 
 img {
@@ -83,7 +84,7 @@ footer {
 button {   
   background-color: #cee9c9;   
   width: 20%;  
-   color: rgb(0, 0, 0);   
+   color: rgb(40, 40, 40);   
    padding: 10px;   
    margin: 10px 0px;   
    border: whitesmoke solid;   
@@ -116,6 +117,6 @@ button:hover {
 
    .container {   
    padding: 50px;   
-   background-color: #cee9c9;
+   background-color: rgb(206, 233, 201);
    width: 80%;  
 }   
