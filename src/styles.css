@@ -27,7 +27,7 @@ main {
 }
 
 h1 {
-  color: #272727;
+  color: rgb(40, 40, 40);
   text-align: center;
 }
 
@@ -49,7 +49,7 @@ p {
 
 a {
   text-align: center;
-  color: #272727;
+  color: rgb(40, 40, 40);
 }
 
 .paragraf {
@@ -76,7 +76,7 @@ footer {
   width: 100%;
   /* Height of the footer*/
   /*height: 1em;*/
-  background: rgb(35, 35, 35);
+  background: rgb(40, 40, 40);
 }
 
 button {   
