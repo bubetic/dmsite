@@ -41,8 +41,8 @@ ul {
   height: auto;
   margin: 0;
   padding: 0;
-  border-radius: 15px;
-  border: 0;
+  border-radius: 10px;
+  /*border: 0;*/
   overflow: hidden;
   background-color: rgb(40, 40, 40);
 }
@@ -53,7 +53,7 @@ li {
 
 li a {
   display: inline;
-  color: white;
+  color: rgb(206, 233, 201);
   text-align: center;
   padding: 14px 16px;
   text-decoration: none;
@@ -61,7 +61,6 @@ li a {
 
 li a:hover {
   background-color:rgb(206, 233, 201);
-  /*text-transform: uppercase;*/
   -webkit-text-fill-color: rgb(40, 40, 40);
 }
 
