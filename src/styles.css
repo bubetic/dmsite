@@ -37,7 +37,7 @@ main > h1 {
 }
 
 .navbar {
-  display: inline-block;
+  display: inline;
 }
 
 p {
