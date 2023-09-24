@@ -38,9 +38,10 @@ main > h1 {
 
 ul {
   list-style-type: none;
+  height: fit-content;
   margin: 0;
   padding: 0;
-  border-radius: 10px;
+  border-radius: 20px;
   overflow: hidden;
   background-color: rgb(40, 40, 40);
 }
@@ -59,6 +60,7 @@ li a {
 
 li a:hover {
   background-color:rgb(206, 233, 201);
+  text-emphasis-color: rgb(40, 40, 40);
 }
 
 p {
