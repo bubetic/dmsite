@@ -36,6 +36,10 @@ main > h1 {
   font-size: 3.5em;
 }
 
+.navbar {
+  display: inline-block;
+}
+
 p {
   text-align: center;
   text-decoration: dashed;
