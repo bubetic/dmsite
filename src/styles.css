@@ -61,6 +61,7 @@ li a {
 
 li a:hover {
   background-color:rgb(206, 233, 201);
+  border-color: rgb(206, 233, 201);
   -webkit-text-fill-color: rgb(40, 40, 40);
 }
 
