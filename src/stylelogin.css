@@ -12,10 +12,8 @@
     /* font-weight: normal; */
     /* font-style: normal; */
   }
-
 body {
     background-color: rgb(206, 233, 201);
-    font-family: "IntroBlackRegular";
 }
 .login {
     width: 400px;
@@ -27,6 +25,7 @@ body {
     text-align: center;
     color: rgb(91, 101, 116);
     font-size: 24px;
+    font-family: "IntroBlackRegular";
     padding: 20px 0 20px 0;
     border-bottom: 1px solid #dee0e4;
 }
@@ -51,19 +50,22 @@ body {
     border: 1px solid #dee0e4;
     margin-bottom: 20px;
     padding: 0 15px;
+    font-family: "IntroBlackRegular";
 }
 .login form input[type="submit"] {
     width: 100%;
     padding: 15px;
-   margin-top: 20px;
+    margin-top: 20px;
     background-color: rgb(91, 101, 116);
     border: 0;
     cursor: pointer;
     font-weight: bold;
     color: #ffffff;
     transition: background-color 0.2s;
+    font-family: "IntroBlackRegular";
 }
 .login form input[type="submit"]:hover {
-  background-color: rgb(40, 40, 40);
+    background-color: rgb(40, 40, 40);
     transition: background-color 0.2s;
+    font-family: "IntroBlackRegular";
 }
