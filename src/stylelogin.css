@@ -53,6 +53,6 @@ body {
     transition: background-color 0.2s;
 }
 .login form input[type="submit"]:hover {
-  background-color: rgb(206, 233, 201);
+  background-color: rgb(105, 130, 100);
     transition: background-color 0.2s;
 }
