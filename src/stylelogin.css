@@ -50,8 +50,8 @@ body {
     border: 1px solid #dee0e4;
     margin-bottom: 20px;
     padding: 0 15px;
-    font-family: "IntroBlackRegular";
-    font-weight: initial;
+    /*font-family: "IntroBlackRegular";
+    font-weight: initial;*/
 }
 .login form input[type="submit"] {
     width: 100%;
@@ -69,4 +69,8 @@ body {
     background-color: rgb(40, 40, 40);
     transition: background-color 0.2s;
     font-family: "IntroBlackRegular";
+}
+
+:focus-visible {
+    border-color: rgb(40, 40, 40);
 }
