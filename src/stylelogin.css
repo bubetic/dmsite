@@ -72,5 +72,6 @@ body {
 }
 
 :focus-visible {
-    border-color: rgb(40, 40, 40);
+    /*border-color: rgb(40, 40, 40);*/
+    outline-color: rgb(40,40,40);
 }
